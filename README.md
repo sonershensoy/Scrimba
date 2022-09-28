@@ -1,1 +1,1 @@
-# Scrimba
+# Scrimba solo projects 
